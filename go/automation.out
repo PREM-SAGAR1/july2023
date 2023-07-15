@@ -1,0 +1,32 @@
+init the properties files....
+Launching the browser....chrome
+Navigated to url:https://www.amazon.in
+selected the option books by using the locator:-searchDropdownBox
+Entere the text Harry potter by using locator :-twotabsearchtextbox
+clicked the element by using the locator:-null
+init the properties files....
+Launching the browser....chrome
+Navigated to url:https://www.amazon.in
+selected the option books by using the locator:-searchDropdownBox
+Entere the text Harry potter by using locator :-twotabsearchtextbox
+clicked the element by using the locator:-null
+init the properties files....
+init the properties files....
+Launching the browser....chrome
+Navigated to url:https://www.amazon.in
+selected the option books by using the locator:-searchDropdownBox
+Entere the text Harry potter by using locator :-twotabsearchtextbox
+clicked the element by using the locator:-null
+init the properties files....
+Launching the browser....chrome
+Navigated to url:https://www.amazon.in
+selected the option books by using the locator:-searchDropdownBox
+Entere the text Harry potter by using locator :-twotabsearchtextbox
+clicked the element by using the locator:-null
+init the properties files....
+Init the properties files..
+Launching the browser :-chrome
+Navigated to url : https://www.amazon.in
+Selected the option Books by using the locator :-searchDropdownBox
+Entered the text harry potter by suing the locator :-twotabsearchtextbox
+Clicked the element bybusing the locator :-//input[@id='nav-search-submit-button']
